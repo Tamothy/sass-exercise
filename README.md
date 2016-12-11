@@ -10,7 +10,7 @@ This contains an exercise utilizing Sass, practicing splitting files using parti
 
 ## Setup/Installation Requirements
 
-* Check out the GitHub pages link: https://tamothy.github.io/sass-excercise
+* Check out the GitHub pages link: https://tamothy.github.io/sass-exercise
 * Clone repository if interested in making changes
 * Make sure to have Sass installed, if not, run `gem install sass` in terminal
 * If there is an error message when installing Sass, run `sudo gem install sass` in terminal
